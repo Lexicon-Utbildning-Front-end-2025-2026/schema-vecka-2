@@ -62,8 +62,8 @@
 * **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-5-jan)** (Maja) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **[Tisdag] Röd dag**
 * **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-7-jan)** (Mandus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-8-jan)** (Mandus) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
-* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-9-jan)** (Mandus) - **TS-Bootcamp**
+* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-8-jan)** (Mandus) - **Variabler & Datatyper** Datatyper, variabler, Aritmetiska och tilldelningsoperatorer, kodblock & TS Bootcamp, pt1
+* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-9-jan)** (Mandus) - **TS-Bootcamp** Jobb med bootcamp på FM och code review på den på EM?
 
 
 ---
