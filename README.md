@@ -60,11 +60,11 @@
 
 ## 📑 Lektionsrepon  
 
-* **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-23-juni)** (Maja) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
+* **[Måndag]** (Maja) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **Röd dag**
-* **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-24-jun)** (Mandus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Torsdag](https://github.com/Lexicon-frontend-2025/lektion-25-26-juni)** (Mandus) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
-* **[Fredag](https://github.com/Lexicon-frontend-2025/lektion-25-26-juni)** (Mandus) - **Objekt** Objekt‑syntax, inbyggda objekt (`Math`, `Date`, `Window`), JSON‑hantering. 
+* **[Onsdag]** (Mandus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
+* **[Torsdag]** (Mandus) - **Arrayer** Metoder (`push`, `pop`, `splice`, `.length`), iteration med `for`, `for…of`. 
+* **[Fredag]** (Mandus) - **TS-Bootcamp**
 
 
 ---
