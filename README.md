@@ -38,15 +38,9 @@
 ---
 
 ## 🛠️ Övningar  
-* [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md)
 
 ---
 
-## 🖥️ Slides
-* [TS-intro](https://docs.google.com/presentation/d/1q19qNw7dsSIs506-OBViTdxLee_yPFE0WlrHWZ6GjpY/edit?usp=sharing)
-* [Variabler & datatyper](https://docs.google.com/presentation/d/1Gevii1EX2RGXQRl4zuqGrXsWC2XLhMNClMdIaM7VzC0/edit?usp=sharing)
-* [Arrayer, metoder, iteration, villkor](https://docs.google.com/presentation/d/1U0oQK8KYGttXMIVekJoEueJpwwmpqF6cCh4CDz2e73s/edit?usp=sharing)
-* Publiceras löpande under veckan.
 
 ---
 
@@ -59,11 +53,11 @@
 
 ## 📑 Lektionsrepon  
 
-* **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-5-jan)** (Maja) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
+* **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-5-jan)** (Linus) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **[Tisdag] Röd dag**
-* **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-7-jan)** (Mandus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-8-jan)** (Mandus) - **Variabler & Datatyper** Datatyper, variabler, Aritmetiska och tilldelningsoperatorer, kodblock & **TS Bootcamp, pt1**
-* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-9-jan)** (Mandus) - **TS-Bootcamp** Jobb med bootcamp på FM och code review på den på EM?
+* **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-7-jan)** (Linus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
+* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-8-jan)** (Linus) - **Variabler & Datatyper** Datatyper, variabler, Aritmetiska och tilldelningsoperatorer, kodblock
+* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-9-jan)** () 
 
 
 ---
