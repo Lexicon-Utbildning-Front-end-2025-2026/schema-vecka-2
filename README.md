@@ -24,9 +24,7 @@
 * Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)  
 
 ### YouTube  
-* [What is TypeScript? – Fireship](https://www.youtube.com/watch?v=BwuLxPH8IDs)  
 * [TypeScript in 100 Seconds – Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)  
-* [Installing TypeScript & Project Setup – The Net Ninja](https://www.youtube.com/watch?v=ahCwqrYpIuM)  
 * [Interfaces vs Types in TypeScript – onjsdev](https://www.youtube.com/watch?v=BTBftM7D9v8) _(för fördjupning nästa vecka)_  
 
 ### Läsning  
