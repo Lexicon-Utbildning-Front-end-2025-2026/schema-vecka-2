@@ -37,6 +37,7 @@
 
 ## 🛠️ Övningar  
 
+* [TypeScript - Variabler/Datatyper](https://github.com/linuszocom/typescript-variables)
 ---
 
 ## 🖥️ Slides
