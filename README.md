@@ -58,7 +58,7 @@
 * **[Måndag]** (Linus) - **TypeScript – Intro** Översikt TS vs JS, felsökning i DevTools, initiera projekt med `npm` & `tsc`, första enkla exempel.
 * **[Tisdag] Röd dag**
 * **[Onsdag]** (Linus) - **Variabler & Datatyper** Deklaration (`let`, `const`), aritmetiska & tilldelningsoperatorer, kodblock, scope. 
-* **[Torsdag]** (Linus) - **Variabler & Datatyper** Datatyper, variabler, Aritmetiska och tilldelningsoperatorer, kodblock
+* **[Torsdag]** (Linus) - **Arrayer, array-metoder, iteration, villkor & logiska/jämförelse operatorer
 * **[Fredag])** (Övning) 
 
 
