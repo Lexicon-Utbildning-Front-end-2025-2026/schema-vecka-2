@@ -39,9 +39,9 @@
 
 ---
 
-## Slides
-[Typescript - intro] (https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQCpKtjn8rl5S7CUNswgFCGiAVqkXVuxNDCCuc3n-I-cE4M?e=aarmM1)
+## 🖥️ Slides
 
+* [TypeScript - intro](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQCpKtjn8rl5S7CUNswgFCGiAVqkXVuxNDCCuc3n-I-cE4M?e=aarmM1)
 
 ---
 
