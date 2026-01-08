@@ -37,7 +37,9 @@
 ## 🛠️ Övningar  
 
 * [TypeScript - Variabler/Datatyper](https://github.com/linuszocom/typescript-variables)
-* [TypeScript - Arrays/listor](https://github.com/linuszocom/TypeScript-Arrays) 
+* [TypeScript - Arrays/listor](https://github.com/linuszocom/TypeScript-Arrays)
+* [TypeScript - Adventure](https://github.com/linuszocom/TypeScript-Adventure/tree/main)
+* 
 ---
 
 ## 🖥️ Slides
