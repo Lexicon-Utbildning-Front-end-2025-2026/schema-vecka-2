@@ -12,7 +12,6 @@
 3. Förstå och använda **grundläggande datatyper** (`string`, `number`, `boolean`, m.fl.) samt **variabler**, **aritmetiska‑** och **tilldelningsoperatorer**.  
 4. Förstå och använda **arrayer** och viktiga arraymetoder (`push`, `pop`, `splice`, `.length`) samt loop‑tekniker (`for`, `for…of`).
 5. Förstå och använda **villkorssatser** med jämförelse- och logiska operatorer.
-6. Förstå och kunna skapa **objekt** i TypeScript, inklusive inbyggda objekt som `Math`, `Date`, `Window` samt hantering av JSON‑data. 
 
 ---
 
