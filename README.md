@@ -20,7 +20,7 @@
 
 ### E‑Learning  
 * Hela - [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)  
-* Bara arrays och set, de andra är frivilliga - [TypeScript 5: Arrays and Collections (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-5-arrays-collections/table-of-contents)
+* Bara arrays, de andra är frivilliga - [TypeScript 5: Arrays and Collections (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-5-arrays-collections/table-of-contents)
 * Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)  
 
 ### YouTube  
